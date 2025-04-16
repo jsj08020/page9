@@ -46,5 +46,5 @@ inputs.forEach((input) => {
 });
 
 document.getElementById("NextPage").addEventListener("click", function() {
-    location.assign("10page.html");
+    location.assign("../page10/page10.html");
 });
